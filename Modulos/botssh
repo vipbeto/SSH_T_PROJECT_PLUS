@@ -1,8 +1,8 @@
 #!/bin/bash
 #====================================================
-#	SCRIPT: Scott PRO
-#	DESENVOLVIDO POR:	scott
-#	CANAL TELEGRAM:	http://t.me/scottssh
+#	SCRIPT: SSH_T_PROEJCT_PLUS
+#	DESENVOLVIDO POR:	TALKERA
+#	CANAL TELEGRAM:	http://t.me/ssh_t_project
 #====================================================
 clear
 fun_bar() {

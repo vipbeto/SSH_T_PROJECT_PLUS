@@ -1,9 +1,9 @@
 #!/bin/bash
 #===================================================
-#	SCRIPT: OTIMIZAR	SCOTT PLUS
+#	SCRIPT: OTIMIZAR	SSH_T_PROJECT_PLUS
 #	DESENVOLVIDO POR:	scott
-#	CONTATO TELEGRAM:	http://t.me/scottssh
-#	CANAL TELEGRAM:	http://t.me/scottsshd
+#	CONTATO TELEGRAM:	http://t.me/talkera
+#	CANAL TELEGRAM:	http://t.me/ssh_t_project
 #===================================================
 fun_bar() {
 	comando[0]="$1"

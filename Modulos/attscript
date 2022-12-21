@@ -3,5 +3,5 @@ clear
 figlet "SSH_T_PROJECT_PLUS" | lolcat
 echo -e "\033[1;33mINICIANDO, INSTALADOR \033[0m"
 sleep 2s
-wget https://raw.githubusercontent.com/ScottBrabo/PR0/main/F2/F3/install; chmod 777 ./install; ./install
+wget https://raw.githubusercontent.com/TelksBr/SSH_T_PROJECT_PLUS/main/script/install; chmod 777 ./install; ./install
 

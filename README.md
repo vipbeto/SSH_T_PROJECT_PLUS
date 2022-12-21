@@ -3,5 +3,5 @@
 # @TALKERA
 
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/ScottBrabo/PR0/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/TelksBr/SSH_T_PROJECT_PLUS/main/ssh-plus)
 ```
